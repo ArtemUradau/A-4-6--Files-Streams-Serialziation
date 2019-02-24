@@ -112,7 +112,6 @@ namespace Advence.Lesson_6
         /// </summary>
         public static void AL6_P7_7_FileSrlz()
         {
-
         }
 
     }
